@@ -135,6 +135,9 @@ let progressreact = setInterval(() => {
   }
 }, rjsspeed);
 
+
+
+
 // filter using javascript
 $(document).ready(function () {
   $(".filter-item").click(function () {
