@@ -384,3 +384,20 @@ footer .link-group a:hover{
     color: #fff;
     animation: pulse 3s infinite;
 }
+
+.portfolio .card-description {
+    font-size: 1rem;  
+    color: #333;      
+    line-height: 1.5; 
+    margin-top: 10px; 
+    margin-bottom: 15px; 
+    text-align: justify; 
+  }
+  
+  
+  .portfolio .card-description:hover {
+    color: #007bff; 
+    cursor: pointer; 
+  }
+  
+
