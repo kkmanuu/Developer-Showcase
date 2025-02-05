@@ -139,10 +139,33 @@ body{
     border-radius: 0.7rem;
 }
 
-/* skill section starts */
-.skill{
-    background-color: rgb(234, 234, 249);
-}
+.skill-image {
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .skill-image img {
+    max-width: 100px; 
+    height: auto;
+    border-radius: 50%; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .text {
+    display: block;
+    text-align: center;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #333; 
+  }
+
+  .skill-with-progress {
+    margin-right: auto; 
+  }
+  
+  .skill-detail {
+    margin-left: auto;
+  }
 .progress-card{
     padding: 12% 10% 10% 15%;
     background-color: #fff;
