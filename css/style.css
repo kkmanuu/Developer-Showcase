@@ -41,6 +41,7 @@ body{
     background: #fca61f;
     color: #fff;
     font-size: 1.2rem;
+    text-decoration: none;
 }
 /* styling home section starts */
 .home{
