@@ -10,6 +10,21 @@ body{
     font-size: 1.5rem;
     color: #fca61f;
 }
+
+html, body {
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+  }
+
+.container {
+    max-width: 100%;
+    overflow: hidden;
+  }
+  
+  * {
+    box-sizing: border-box;
+  }
 /* styling navbar links  */
 .navbar-nav a{
     color: black;
